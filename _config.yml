@@ -22,7 +22,7 @@ user:
   name: Ruralnerd
   pic: /assets/img/mypic.jpeg
   picAlt: "catbook"
-  job: ""
+  job: "haha"
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
